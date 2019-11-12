@@ -1,0 +1,141 @@
+.cart{
+    background-color: #4086D7;
+    width: 500px;
+    height: 300px;
+    border-radius: 30px;
+    overflow: hidden;
+    margin: 50px;
+    background-image: url("C:\Users\akrem\complex_card\src\component/fond.jpg")
+}
+.sous-titre{
+    display: flex;
+    justify-content: space-between;
+}
+.titre{
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+    font-family: 'Anton', sans-serif;
+    font-size: 19px;
+    padding-right: 50px;
+}
+.puce img{
+    width: 195px;
+    height: 100px;
+    margin-top: -19px;
+    margin-left: 31px;
+}
+.cards{
+   background-color: white;
+    width: 74px;
+    margin-right: 29px;
+    margin-top: 70px;
+    height: 106px;
+    
+}
+.master_card img{
+    width: 72px;
+    padding-left: 1px;
+    margin-top: -12px;
+    height: 75px;
+}
+.visa-card img{
+    margin-top: -16px;
+    padding-left: 1px;
+    width: 72px;
+    height: 53px;
+}
+.num{
+    color: white;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+.num p{
+    
+    color:  white;
+    margin-bottom: 14px;
+    font-size: 31px;
+    margin-left: 0px;
+    margin-right: -175px;
+    margin-top: -6px;
+}
+.back{
+    
+    margin-right: -196px;
+    width: 293px;
+    height: 30px;
+    margin-top: -8px;
+}
+.code p{
+    color: white;
+    font-size: 27px;
+    margin-left: 51px;
+    margin-top: 6px;
+    font-family: 'Anton', sans-serif;
+}
+.nom{
+    color: white;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: -60px;
+    font-family: 'Anton', sans-serif;
+}
+.code-date{
+    display: flex;
+    justify-content: space-between;
+}
+.date{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 87px;
+    margin-top: -19px;
+    font-size: 15px;
+}
+
+.p-date{
+    color: white;
+    margin-top: 24px;
+    font-size: 10px;
+    margin-left: 222px;
+}
+.p-date h1{
+    font-size: 30px;
+    margin-top: -22px;
+    margin-left: -10px;
+}
+.valid{
+    margin-top: -51px;
+    margin-left: -54px;
+}
+#thru{
+    margin-top: -13px;
+}
+.p-date img{
+    width: 27px;
+    height: 20px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.valid{
+    display: flex;
+    margin-left: -64px;
+}
+.thru-valid{
+    margin-top: -10px
+}
+.form{
+    margin-top: 100px;
+}
+.form input{
+    width: 238px;
+    height: 26px;
+    margin-top: 24px;
+    border-radius: 3px;
+}
+.app{
+    display: flex;
+}
+.nom p{
+    text-transform: uppercase;
+}
